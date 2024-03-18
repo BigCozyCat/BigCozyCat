@@ -3,6 +3,4 @@
 - 🌱 I’m currently learning AI 
 - 💞️ I’m looking to collaborate on (in the future maybe)
 - 😄 Pronouns: Man
-- ⚡ Fun fact: I a
-
-  
+- ⚡ Fun fact: I will NEVER get tired from coding
