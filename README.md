@@ -17,9 +17,3 @@
 ### 📁 Selected Repositories
 > Not all projects are public.  
 > Stay tuned for some big drops.
-
----
-
-### 💬 Let's connect
-- I post occasionally at [github.com/BigCozyCat](https://github.com/BigCozyCat)
-- More coming soon...
