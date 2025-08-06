@@ -1,2 +1,2 @@
-# 👋 Hi, I'm Karmani (aka @BigCozyCat)
-> I do cool shit
+# 👋 I'm Karmani (@BigCozyCat)
+> Building things that matter.
